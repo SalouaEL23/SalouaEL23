@@ -5,7 +5,7 @@
 
 -🔭 I´m currently working with Javascript, Angular, Laravel ,Bootstrap ,php ,CSS,
 
-🌱 I’m currently learning Cloud computing and IOT
+🌱 I’m currently learning Flutter 
 
 -📫How to reach me :
 
