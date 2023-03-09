@@ -9,7 +9,7 @@
 
 -📫How to reach me :
 
-saloua.elissati@etu.uae.ac.ma
+salouaelissati23@gmail.com
 
 -📫Connect with me:
 
