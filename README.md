@@ -4,7 +4,7 @@
 
 ✨ MY NAME IS SALOUA EL ISSATI ✨
 
--🔭 I´m currently working with Javascript, React js, node js ,php ,CSS,
+-🔭 I´m currently working with Javascript, React js, node js ,php,
 
 🌱 I’m currently learning Flutter 
 
